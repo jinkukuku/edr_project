@@ -1,1 +1,1 @@
-[Autoencoder를 사용한 edr log 이상치 탐지]
+[Autoencoder를 사용한 이상치 탐지]
